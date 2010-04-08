@@ -1,0 +1,6 @@
+This sample shows how to make a PDK-based component that can live as an 
+<object> inside a native JS/HTML application on webOS. The plugin 
+exposes three methods: setRotationSpeed, pause, and resume. The Mojo 
+application uses these methods to update the rotation of the shape based 
+on a Mojo slider widget, and to stop and restart the animation when the 
+card is put into the background. 
