@@ -1,0 +1,12 @@
+[
+    {
+        "source": "app/controllers/app-assistant.js"
+    },
+    {
+        "source": "app/models/shapespin.js"
+    },
+    {
+        "scenes": "shapespin",
+        "source": "app/controllers/shapespin-assistant.js"
+    }
+]

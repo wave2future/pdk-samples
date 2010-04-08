@@ -1,0 +1,8 @@
+{
+	"title": "Shape Spinner",
+	"type": "web",
+	"main": "index.html",
+	"id": "com.palmdts.app.shapespin",
+	"version": "1.0.0",
+	"vendor": "Palm, Inc."
+}
